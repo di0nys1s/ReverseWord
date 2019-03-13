@@ -33,9 +33,9 @@
         android:layout_height="wrap_content"
         android:text="Fire" />-->
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/txtFirebase"/>
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/txtFirebase"/>-->
 
     </LinearLayout>
