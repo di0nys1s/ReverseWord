@@ -1,0 +1,8 @@
+
+
+    <resources>
+        <string name="app_name">Tutorial 1</string>
+        <string name="edit_message">Enter a word</string>
+        <string name="button_reverse">Reverse</string>
+        <string name="button_clear">Clear</string>
+    </resources>
